@@ -10,10 +10,11 @@ Chronological list of official Navy Seal releases in [bin/](bin/) including date
 
 Release Date | File | Description
 --- | --- | ---
-1997-07-?? | navyseal.zip<br>[navyseal.txt](bin/navyseal15.txt) | Navy Seals v1.5
+1997-07-?? | ?<br>[navyseal.txt](bin/navyseal15.txt) | Navy Seals v1.5
+1997-??-?? | ? | Navy Seals v1.6
 1997-??-?? | navy171.zip | Navy Seals v1.71
 1997-08-28 | [navy1711.zip](bin/navy1711.zip) | Navy Seals v1.711
-1997-??-?? | navy181.zip<br>[navyseal.txt](bin/navyseal18.txt) | Navy Seals v1.81 Beta
+1997-??-?? | navy181.zip<br>[navyseal.txt](bin/navyseal18.txt) | Navy Seals v1.8 Beta
 1997-??-?? | navy191.zip<br>[navyseal.txt](bin/navyseal19.txt) | Navy Seals v1.91 Beta
 1997-10-01 | [navy20.zip](bin/navy20.zip) | Navy Seals v2.0
 1997-??-?? | navy2x.zip | Navy Seals v2.x
@@ -40,6 +41,15 @@ Breakout | Judson Eiloart aka "Zakalwe" | [break1-map.zip](maps/break1-map.zip)<
 Destroyer Assault | Mikael Ranbro aka "Smilodon" | [nse1mx.zip](maps/nse1mx.zip)<br>[nse1mx.txt](maps/nse1mx.txt)
 Moonbase | Nick Gerpe aka "JazzCat" | [moonbase.zip](maps/moonbase.zip)<br>[moonbase.txt](maps/moonbase.txt)
 NavyStart | Mikael Ranbro aka "Smilodon" | [navystart.zip](maps/navystart.zip)<br>[navystart.txt](maps/navystart.txt)
+
+## Navy Seals Other
+
+Alphabetical list of other Navy Seal files in [other/](other/).
+
+Release Date | File | Description
+--- | --- | ---
+2000-03-27 | [nse1m1demo.lha](other/nse1m1demo.lha) | Walkthrough demo to Navy Seals (Amiga)
+2001-01-25 | [nsealsndfix.lha](other/nsealsndfix.lha) | Quake Navy Seal sound fix (Amiga)
 
 ## How You Can Help
 
