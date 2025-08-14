@@ -1,0 +1,37 @@
+
+ Date:         25th Nov 97
+ Map:          Breakout...
+ Author :      Zakalwe (Judson Eiloart)
+ Author Info : Musician(Synth programming, guitar,
+               electronics, etc)
+               Closet World creator/ Designer
+
+ Map Info:     Map designed for the Navy seals project
+
+ Single player :   Yes
+ Co-op:            Yes
+ Deathmatch:      Yes, 8 starts
+ Difficulty settings: Yes
+ Textures:         Yes, some textures from the "colony" wad
+ Sounds :          No
+ QC                No
+
+ Editors: Worldcraft,Qart, wQBSP, ArghLite,R-Vis.
+ Build time: 60+Hrs
+ Compile time: 23 mins 55 sec (total, Level-4 vis, Extra Light)
+ Bugs : None
+
+ Notes : This map will be perfectly playable in regular Quake, but
+              is optimized for the Navy Seals patch. 
+              I expect there is more on the way....enjoy.
+
+ Legal: This map remains the intellectual property of the author
+ It may be distributed for NON-profit only and not sold as part
+ of any compilationCD_rom without the authors permission.  
+This text file must be distributed with the aforementioned Map/.BSP    
+ Quake, and the textures in this map are  the copyright of id 
+ software.The colony textures are the intellectual property and/or
+ copyright of their respective author(s)           
+ Worldcraft is the copyright of Valve software/Ben morris(I think)
+
+ 

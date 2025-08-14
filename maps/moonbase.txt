@@ -1,0 +1,50 @@
+					~~~~MOONBASE~~~~~
+					  A Quake Map
+					
+
+
+Author: Nick "JazzCat" Gerpe
+Date: August 9, 1998
+Compile Machine: Pentium 100 mhZ 16 mb RAM
+Build tool: Qed 2
+Build time: 5 days
+
+
+
+
+NOTE: This map was designed for the Quake Navy SEAL's mod (http://seals.warzone.com)
+
+	
+Story-
+
+	A top secret lab on the moon has been infiltrated by an elite terrorist association known as
+the QED (Quake's Evil Dudes) group. Already they have sent a small transport to the base along 
+with supplies. Now for the important part.
+
+	The moon base in question is top secret. It is used to examine alien life forms captured
+by the U.S. Government. All of these life forms are extremely dangerous and unpredictable. Your 
+mission is to use the teleport (itself in a secret, remote location) to gain access to the lab. 
+When you reach the lab, kill everything, human or extra-terrestrial. Then, escape from the base 
+via the end slipgate. Remember, ammo is precious. Make every shot count, as there is not much ammo
+remaining at the base. 
+
+
+Info-
+
+	O.K. You read the story. Um, the best piece of advice I can offer is to CONSERVE YOUR AMMO!
+This is no exaggeration- you will run out if you don't hit with almost 80% accuracy. Other than than
+that, watch your ass. I did include some (relatively) challenging parts in the map. One final note-
+this IS my first map. So, take it easy on the reviews; I'll fix what you don't like when I get the
+chance. 
+
+
+Instructions- 
+
+	This is simple. Just unzip the files included in this .ZIP to your quake/id1/maps directory 
+(assuming that this directory hasn't been changed). Then, run Quake and, in the console, type "map 
+moonbase", without the quotations of, course.
+
+
+Contact me: ed2g@1stnetusa.com
+
+Special thanks to: Me >:-)

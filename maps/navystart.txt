@@ -1,0 +1,48 @@
+**** This map designed for the Navy Seal TC ****
+971129
+================================================================
+Title                   : NavyStart
+Filename                : navystart.bsp
+Author                  : Mikael Ranbro aka Smilodon
+Email Address           : smilodon@bt.ml.org
+Description             : Start map for the Navy Seals TC.
+
+Additional Credits to   : MyrddiN, for some texture wads.
+
+Check out my hompepage for latest version:
+http://www.efd.lth.se~d96mr/
+
+================================================================
+
+* Play Information *
+
+This map is designed for the Navy Seal TC
+
+Single Player           : Yes
+Cooperative             : Yes
+Deathmatch (2-16)       : No
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : Some textures
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor used          	: Worldcraft 1.5
+Known Bugs              : none
+Build Time              : -
+
+* Other Info *
+
+How to use this map:
+Copy the navystart.bsp file into your quake\id1\maps
+directory. Then run quake.
+In the console, type "map navystart" (without the quotes)
+
+If you want to play on a QW server running this map, copy the navystart.bsp
+file into your quake\qw\maps directory.
+
+Mission briefing:
+...

@@ -1,0 +1,24 @@
+# False positive historical links
+
+# navyseal.zip
+http://apogee1.com/catalog/sw/files/maps/n-z/navyseal.zip
+http://dukeworld.duke4.net/2001-current/buildgames/sw/maps/n-z/navyseal.zip
+http://ftp.sunet.se/pub/games/PC/3drealms/sw/maps/n-z/navyseal.zip
+http://tux.telefragged.com/telefragged/cfgmd/city_navyseal.zip
+http://www.gamers.org/pub/games/sw/maps/n-z/navyseal.zip
+http://www.inlink.com/~fworaven/NAVYSEAL.ZIP
+https://www.quaddicted.com/files/mirrors/ftp.3dportal.net/sw/maps/n-z/navyseal.zip
+https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/cfgmd/city_navyseal.zip
+https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/totalaq/quake2/actionq2/gun_skins/redhawk/navyseal.zip
+https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/totalaq/quake2/actionq2/skins/male/navyseal.zip
+
+# navyseal.txt
+http://apogee1.com/catalog/sw/files/maps/n-z/navyseal.txt
+http://dukeworld.duke4.net/2001-current/buildgames/sw/maps/n-z/navyseal.txt
+http://dukeworld.duke4.net/classic%20dukeworld/tc/navyseals/macnavyseal.txt
+http://ftp.mancubus.net/pub/games/duke3d/tc/navyseals/macnavyseal.txt
+http://ftp.sunet.se/pub/games/PC/3drealms/duke3d/tc/navyseals/macnavyseal.txt
+http://www.gamers.org/pub/games/duke3d/tc/navyseals/macnavyseal.txt
+http://www.gamers.org/pub/games/sw/maps/n-z/navyseal.txt
+https://www.quaddicted.com/files/mirrors/ftp.3dportal.net/duke3d/tc/navyseals/macnavyseal.txt
+https://www.quaddicted.com/files/mirrors/ftp.3dportal.net/sw/maps/n-z/navyseal.txt

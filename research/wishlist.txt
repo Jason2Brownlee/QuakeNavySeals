@@ -1,0 +1,11 @@
+# known but broken urls to wishlist filenames
+
+navyseal.zip
+navyseal.txt
+
+navy171.zip
+navy181.zip
+navy191.zip
+navy2x.zip
+
+sqdbt201.zip

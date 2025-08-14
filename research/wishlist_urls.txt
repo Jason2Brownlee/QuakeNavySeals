@@ -1,0 +1,33 @@
+# filename wishlist
+
+# navy171.zip
+http://www.planetquake.com/qca/goose/files/Navy171.zip
+http://www.planetquake.com/qca/goose/files/navy171.zip
+
+# navy181.zip
+ftp://ftp.freesoftware.com/pub/idgames2/planetquake/qca/goose/navy181.zip
+http://www.bluesnews.com/files/patches/tcs/navy181.zip
+http://www.cdrom.com/pub/idgames2/planetquake/qca/goose/navy181.zip
+http://www.planetquake.com/qca/goose/files/Navy181.zip
+http://www.planetquake.com/qca/goose/files/navy181.zip
+
+# navy191.zip
+http://www.bluesnews.com/files/patches/tcs/navy191.zip
+http://www.planetquake.com/qca/goose/files/Navy191.zip
+
+# navy2x.zip
+http://www.bluesnews.com/files/patches/navy2x.zip
+
+# sqdbt201.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/seals/sqdbt201.zip
+ftp://ftp.epix.net/pub/idgames2/planetquake/seals/sqdbt201.zip
+ftp://ftp.iis.com.br/pub/mirror/Quake/planetquake/seals/sqdbt201.zip
+ftp://ftp.livewire.com.au/pub/idgames2/planetquake/seals/sqdbt201.zip
+ftp://ftp.powerup.com.au/pub/games/quake/planetquake/seals/sqdbt201.zip
+ftp://ftp.sci.fi/pub/idgames2/planetquake/seals/sqdbt201.zip
+ftp://ftp.sunet.se/pub/pc/games/idgames2/planetquake/seals/sqdbt201.zip
+ftp://ftp.telepac.pt/pub/idgames2/planetquake/seals/sqdbt201.zip
+ftp://mirror.aarnet.edu.au/pub/idgames2/planetquake/seals/sqdbt201.zip
+ftp://mirror.aarnet.edu.au/pub/planetquake/planetquake/seals/sqdbt201.zip
+ftp://mirrors.xmission.com/planetquake/seals/sqdbt201.zip
+ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/seals/sqdbt201.zip

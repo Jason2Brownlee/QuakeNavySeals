@@ -1,0 +1,49 @@
+**** This map designed for the Navy Seal TC ****
+971129
+================================================================
+Title                   : Destroyer Assault
+Filename                : nse1m1.bsp
+Author                  : Mikael Ranbro aka Smilodon
+Email Address           : d96mr@efd.lth.se
+Description             : Map for the Navy Seals TC.
+
+Additional Credits to   : Linus Pizunski for some custom textures and
+			  to Ezekiel Draven for a very good advice.
+
+Check out my hompepage for latest version:
+http://www.efd.lth.se~d96mr/
+
+================================================================
+
+* Play Information *
+
+This map is designed for the Navy Seal TC
+
+Single Player           : Yes
+Cooperative             : Yes
+Deathmatch (2-16)       : Yes
+Difficulty Settings     : Yes
+New Sounds              : No
+New Graphics            : Some textures
+New Music               : No, recommended: 2001 -- A Space Odyssey (Theme)
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor used          	: Worldcraft 1.5
+Known Bugs              : none
+Build Time              : Way too long.
+
+* Other Info *
+
+How to use this map:
+Copy the nse1m1.bsp file into your quake\id1\maps
+directory. Then run quake.
+In the console, type "map nse1m1" (without the quotes)
+
+If you want to play on a QW server running this map, copy the nse1m1.bsp
+file into your quake\qw\maps directory.
+
+Mission briefing:
+Destroy the navigation computer, disarm the two RADAK bombs and shut down the engine.

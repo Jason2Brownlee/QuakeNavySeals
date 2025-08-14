@@ -1,0 +1,71 @@
+================================================================
+
+Title                   : Against All Odds
+
+Filename                : nse1m2.bsp
+
+Author                  : -Knife*Edge-
+
+Email Address           : fwiffo@hotmail.com
+
+Description             : A mission for Navy SEALs Quake. 
+			  You have to do these tasks:
+				  1. Deactivate the main power generator
+				  2. Destroy the alien experiment
+				  3. Smash the defense grid
+				  4. Disarm the secret arsenal
+				  5. Eliminate the evil presence
+			  Caution: This mission is for hard-asses only!
+			  
+
+
+Additional Credits to   : All the guys on the Navy SEALs team 
+					and
+			      those hax0rs at Id Software
+
+================================================================
+
+
+
+* Play Information *
+
+
+Game                    : Registered Quake + Navy SEALs Quake
+
+Single Player           : Yeah baby, yeah!
+
+Cooperative 2-4 Player  : You could if you want, but it'd be pretty easy. 2 players max recommended
+
+Deathmatch 2-5 Player   : Nah.
+
+Deathmatch 6+ Player    : Ditto.
+
+Difficulty Settings     : Only one.
+
+New Sounds              : Nope
+
+New Graphics            : Nah
+
+New QuakeC              : Nuh uh
+
+New MDL's               : No
+
+Map Note		: The teleport off the roof doesn't always kill you. It's a random teleporter, you just hafta get lucky. =)
+
+
+
+* Construction *
+
+
+Base Editor(s) used     : Worldcraft
+
+Known Bugs              : The cruficied zombies in the evil room are too far into the wall.
+			  It doesn't affect the gameplay, so it's all right. 
+
+Build time              : A loooooong time. =P~~
+
+
+
+* Copyright / Permissions *
+
+Ummm, don't modify, steal, reverse-engineer, hax0rize, destroy, step on, or otherwise mutilate it. It's mine. You can pass it around, but keep this file with it.

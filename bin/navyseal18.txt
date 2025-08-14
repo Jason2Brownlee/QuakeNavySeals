@@ -1,0 +1,88 @@
+************************************************************************************
+*		      	   NAVY SEALS WEAPONS PATCH                                *
+************************************************************************************
+
+
+Filename  : NAVYSEAL.ZIP
+Version   : 1.8 Beta
+
+Date      : 9/06/97
+
+Author    : Minh Le (Gooseman)
+
+Email     : gooseman@smartt.com
+
+Credits   : The authors of QME and QUARK!! and id software for giving me reason to live (QUAKE2)
+
+Greetings : Members of the UnHoly Alliance Clan and the members of the Atomic Carnage.
+            Snipes , Guardian, Sniper1, The_Brain, Robs, Nell96, 
+            Manson ( NOT Merry Edmonston!!!  :-) ,
+            Hitman, and anyone else I forgot to mention :)
+            Kevin Crocker!
+            members of the QCA
+
+*****************
+*  Type of Mod  *
+*****************
+
+Quake C  : yes          
+Sound    : yes + help from Kevin Crocker!!           
+MDL      : yes   about 100+ hours worth of modelling and skinning.       
+Graphix  : yes + help from Warped of the QCA archives for the awesome console background.
+
+*************************************
+*  Description of the Modification  *
+*************************************
+
+New Features since Navy SEALS 1.71
+
+- new mp-5 model and animation as well as 2 new firing modes, semiauto and single shot
+- new skin for the mk.23
+- new k-bar model and animation
+- new laser sight
+- new crouch feature
+- various bug fixes, such as the grenade throwing bug and the reloading bug...
+
+coming soon : new enemy ! 
+
+******IMPORTANT INFORMATION**********
+
+- Impulse 100 will reload the guns (except for shotgun which reloads automatically)
+- Impulse 101 will fire the grenade launcher (you must have the M-16 to do this)
+- Impulse 102/103 will zoom in/out with the PSG-1 (this only works in regular Quake)
+- Impulse 104 will toggle crouch. If you want the crouch button to work as a momentary crouch
+you must type in the following at the console:
+
+alias +crouch "impulse 104"
+alias -crouch "impulse 104"
+bind downarrow "+crouch"
+- Impulse 105 switches between single/semi-auto/full for the mp-5 submachine gun
+
+If you are using GLQuake it is HIGHLY RECOMMENDED you run the swap.bat file located in the /progs directory.. This will switch to the gun models that have been properly positioned for maximum appeal in GlQuake. 
+ 
+******* Patch Information ***********
+
+    This is the Navy Seals Weapons compilation patch. I'm not sure which version you're playing right now but the Final version is intended to replace all 8 of the original Quake weapons with weapons taken directly from the arsenal of the Navy Seals special ops division. Some of these weapons include : Heckler & Koch MP5 submachine gun, mossberg tactical shotgun, Heckler & Koch Mk. 23 handgun, and the M-16 Assault Rifle (with grenade launcher attached :-). 
+    This mod has been a true labour of love. I've gone through MANY revisions on each gun and may yet to go through more revisions.. suffice to say, the version of Navy Seals you're playing right now contains the most current revision of my gun and hopefully the most accurate. I first started this weapons mod back in Early June with the intention of only doing an M-16 but after I got blasted for such shoddy craftsmanship I decided to show those who blasted me that I can do it right (hopefully). 
+    
+***********************
+*       FEATURES      *        
+***********************
+
+   - Heckler & Koch Mk. 23 : This is the handgun that recently won the SOCCOM project. Soon , all special ops forces in the USA will be using this gun. IT uses .45 calibre bullets and carries 25 bullets in its clip (in real life it only carries 12 for the military version and 10 otherwise). Due to the method in which the bullets travel the gun is best used at close range where maximum torque on the bullet can severely hurt the intended victim. At ranges greater than 20 feet the power of the bullet dissipates quite rapidly.. Expect to see 1/4th of the power at a range greater than 200 feet.
+
+   - Mossberg 590 tactical shotgun : I don't know much about this shotgun other than the fact that it's a 12 gauge and uses shells. 
+
+   - Heckler & Koch MP5 Submachine gun : The world famous MP5 submachine gun has become a staple in all special ops forces in the USA. It's stability while firing, durability, and ease of use make it the predominant submachine gun in the world. The MP5 fires 9mm rounds and carries 60 bullets in its clip (real life carries only 30 bullets).
+
+   - Colt M-16 Assault Rifle : Standard issue assault rifle in the USA. The M-16 fires 7.62 mm NATO bullets and carries 30 bullets in its clip just as in real life. The grenade launcher attached to the barrel uses 1 rocket per grenade launch and is fired by invoking 'impulse 101'.
+
+*****************************
+*  How to use Modification  *
+*****************************
+
+1) make a directory in your REGISTERED quake directory called "navyseal"  
+2) unzip the file navyseal.zip into the new directory you've just created with the -d option (ie. type "pkunzip navyseal.zip -d" . This will unzip the file with regards to recursive directories.)
+3) Now depending on which version of Quake you plan on running (regular Quake or GLQUake) you might have to run the batch file included in the /progs directory. If you are running normal Quake then you DO NOT run that batch file. If you are running GLQuake then you SHOULD run that batch file. Basically the batch file just swaps the 2 .mdl's 
+4) Now , go to the Quake directory and type "quake -game navyseal" or "glquake -game navyseal" if you're runnning GLQuake. 
+
