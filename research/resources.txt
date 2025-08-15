@@ -4,7 +4,7 @@ archives
 	https://www.gamers.org/pub/idgames2/levels/seals/
 	https://archive.org/details/navy-seal-quake
 	https://gist.github.com/Jason2Brownlee/70b2fdb12df050b2fe8de209eb142eee
-
+	https://www.frag-net.com/mod_quake_navyseal.html
 v 2.0.1
 	https://gamebanana.com/mods/400178
 history
@@ -26,3 +26,12 @@ link old versions
 	https://www.quaketerminus.com/addon.shtml
 	http://www.angelfire.com/nm/qarchive/nseal.html
 	https://gynkillers.tripod.com/arquivos.htm
+	https://quake.by/files/?id=36
+history / looking bacl
+	https://www.shacknews.com/article/125425/cquake-how-to-run-classic-quake-maps-and-mods-on-modern-pcs?page=11
+v1.81 review
+	https://www.insideqc.com/modindex/qreview/patch1.shtml
+review
+	https://asecretarea.com/tag/navy-seals-quake/
+
+
