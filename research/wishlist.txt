@@ -1,8 +1,10 @@
 # known but broken urls to wishlist filenames
 
+# generic release (in readme)
 navyseal.zip
 navyseal.txt
 
+# specific versions
 navy15.zip
 navy16.zip
 navy17.zip
@@ -11,8 +13,8 @@ navy181.zip
 navy191.zip
 navy2x.zip
 
+# squad bots
 sqdbt201.zip
-
 
 # maps
 hod.zip
