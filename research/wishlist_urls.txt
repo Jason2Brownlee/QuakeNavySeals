@@ -1,5 +1,14 @@
 # filename wishlist
 
+# navy15.zip
+ftp://ftp.torget.se/quake/tc/navy15.zip
+
+# navy16.zip
+ftp://ftp.torget.se/quake/tc/navy16.zip
+
+# navy17.zip
+ftp://ftp.torget.se/quake/tc/navy17.zip
+
 # navy171.zip
 http://www.planetquake.com/qca/goose/files/Navy171.zip
 http://www.planetquake.com/qca/goose/files/navy171.zip

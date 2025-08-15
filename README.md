@@ -10,8 +10,8 @@ Chronological list of official Navy Seal releases in [bin/](bin/) including date
 
 Release Date | File | Description
 --- | --- | ---
-1997-07-?? | ?<br>[navyseal.txt](bin/navyseal15.txt) | Navy Seals v1.5
-1997-??-?? | ? | Navy Seals v1.6
+1997-07-30 | navy15.zip<br>[navyseal.txt](bin/navyseal15.txt) | Navy Seals v1.5
+1997-??-?? | navy16.zip | Navy Seals v1.6
 1997-??-?? | navy171.zip | Navy Seals v1.71
 1997-08-28 | [navy1711.zip](bin/navy1711.zip) | Navy Seals v1.711
 1997-??-?? | navy181.zip<br>[navyseal.txt](bin/navyseal18.txt) | Navy Seals v1.8 Beta

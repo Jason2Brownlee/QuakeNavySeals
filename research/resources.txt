@@ -9,3 +9,8 @@ mod pages
 	https://gamebanana.com/mods/400178
 	https://lilura1.blogspot.com/2023/12/Origin-of-Counter-Strike-Navy-SEALs-Quake-1.html
 	https://www.apajalista.net/id?id=26613
+
+other
+	https://groups.google.com/g/fido.ger.spiele/c/7bJOeGa5xNk/m/PByX03WHLKgJ
+	https://groups.google.com/g/rec.games.computer.quake.misc/c/2RlW2jJuUEg/m/zYCFnBiNh_cJ
+
