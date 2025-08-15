@@ -40,6 +40,8 @@ Against All Odds | "-Knife*Edge-" | [nse1m2.zip](maps/nse1m2.zip)<br>[nse1m2.txt
 Aircraft Demolition | Mikael Ranbro aka "Smilodon" | [nse1m1.zip](maps/nse1m1.zip)<br>[nse1m1.txt](maps/nse1m1.txt)
 Breakout | Judson Eiloart aka "Zakalwe" | [break1-map.zip](maps/break1-map.zip)<br>[break1-map.txt](maps/break1-map.txt)
 Destroyer Assault | Mikael Ranbro aka "Smilodon" | [nse1mx.zip](maps/nse1mx.zip)<br>[nse1mx.txt](maps/nse1mx.txt)
+Hall of Death | "MyrddiN" and Mikael Wahlberg | hod.zip
+Hangar | "MyrddiN" and Mikael Wahlberg | hanger.zip
 Moonbase | Nick Gerpe aka "JazzCat" | [moonbase.zip](maps/moonbase.zip)<br>[moonbase.txt](maps/moonbase.txt)
 NavyStart | Mikael Ranbro aka "Smilodon" | [navystart.zip](maps/navystart.zip)<br>[navystart.txt](maps/navystart.txt)
 

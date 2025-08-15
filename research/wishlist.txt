@@ -12,3 +12,8 @@ navy191.zip
 navy2x.zip
 
 sqdbt201.zip
+
+
+# maps
+hod.zip
+hangar.zip

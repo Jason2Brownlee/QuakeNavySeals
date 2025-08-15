@@ -22,3 +22,26 @@ http://www.gamers.org/pub/games/duke3d/tc/navyseals/macnavyseal.txt
 http://www.gamers.org/pub/games/sw/maps/n-z/navyseal.txt
 https://www.quaddicted.com/files/mirrors/ftp.3dportal.net/duke3d/tc/navyseals/macnavyseal.txt
 https://www.quaddicted.com/files/mirrors/ftp.3dportal.net/sw/maps/n-z/navyseal.txt
+
+# hod.zip
+http://cd.textfiles.com/swextrav4/swextrav4-2/hobhamnw/hod.zip
+http://quakerepo.net/deathmatch/maps/hod.zip
+http://www.fileplanet.com/7617/0/fileinfo/hod.zip
+http://www.fileplanet.com/7617/download/hod.zip
+http://www.fortunecity.com/underworld/myst/629/game/hod.zip
+http://www.fortunecity.de/lindenpark/lilienthal/20/hod.zip
+https://www.quaddicted.com/files/idgames2/planetquake/planethalflife/radium/maps/hod.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/planethalflife/radium/maps/hod.zip
+https://www.quaddicted.com/files/mirrors/quakerepo.net/deathmatch/maps/hod.zip
+
+# hanger.zip
+http://cd.textfiles.com/suzybatari2/new_file/falcon/hanger/hanger.zip
+http://dukeworld.duke4.net/2001-current/unsorted/other/Duke%20Nukem%203D/Maps/Single%20Player/2000/Maps/hanger.zip
+http://dukeworld.duke4.net/classic%20dukeworld/maps/f-j/hanger.zip
+http://www.fortunecity.com/underworld/gosub/13/HTMLobj-119/hanger.zip
+http://www.gamers.org/pub/games/duke3d/maps/f-j/hanger.zip
+http://www.gamers.org/pub/games/idgames2/planetquake/planetstarsiege/Zhandri/hanger.zip
+http://www.gamers.org/pub/idgames2/planetquake/planetstarsiege/Zhandri/hanger.zip
+https://www.quaddicted.com/files/idgames2/planetquake/planetstarsiege/Zhandri/hanger.zip
+https://www.quaddicted.com/files/mirrors/ftp.3dportal.net/duke3d/maps/f-j/hanger.zip
+https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/planetstarsiege/Zhandri/hanger.zip

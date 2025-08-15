@@ -40,3 +40,9 @@ ftp://mirror.aarnet.edu.au/pub/idgames2/planetquake/seals/sqdbt201.zip
 ftp://mirror.aarnet.edu.au/pub/planetquake/planetquake/seals/sqdbt201.zip
 ftp://mirrors.xmission.com/planetquake/seals/sqdbt201.zip
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/seals/sqdbt201.zip
+
+# hod.zip
+http://w1.920.telia.com/~u92002213/hod.zip
+
+# hangar.zip
+http://w1.920.telia.com/~u92002213/hangar.zip
