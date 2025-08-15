@@ -16,7 +16,7 @@ Release Date | File | Description
 1997-08-27 | navy171.zip<br>[navyseal.txt](bin/navyseal17.txt) | Navy Seals v1.71
 1997-08-28 | [navy1711.zip](bin/navy1711.zip) | Navy Seals v1.711
 1997-??-?? | navy181.zip<br>[navyseal.txt](bin/navyseal18.txt) | Navy Seals v1.8 Beta
-1997-??-?? | navy191.zip<br>[navyseal.txt](bin/navyseal19.txt) | Navy Seals v1.91 Beta
+1997-09-22 | navy191.zip<br>[navyseal.txt](bin/navyseal19.txt) | Navy Seals v1.91 Beta
 1997-10-01 | [navy20.zip](bin/navy20.zip) | Navy Seals v2.0
 1997-??-?? | navy2x.zip | Navy Seals v2.x
 1997-12-12 | sqdbt201.zip | Navy Seals Squad Bots v2.0.1

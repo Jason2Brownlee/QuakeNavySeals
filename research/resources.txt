@@ -5,16 +5,18 @@ archives
 	https://archive.org/details/navy-seal-quake
 	https://gist.github.com/Jason2Brownlee/70b2fdb12df050b2fe8de209eb142eee
 
-mod pages
+v 2.0.1
 	https://gamebanana.com/mods/400178
+history
 	https://lilura1.blogspot.com/2023/12/Origin-of-Counter-Strike-Navy-SEALs-Quake-1.html
+description of squadbots
 	https://www.apajalista.net/id?id=26613
-
+announce 1.91 release
+	https://www.bluesnews.com/s/228887/new-navy-seals
 review of 1.71
 	https://web.archive.org/web/19990218125007/http://www.planetquake.com/qca/reviews/patch91.htm
 review of 201
 	https://web.archive.org/web/19981202041242/http://www.public.usit.net/jerwin/seals.html
-
 other
 	https://groups.google.com/g/fido.ger.spiele/c/7bJOeGa5xNk/m/PByX03WHLKgJ
 	https://groups.google.com/g/rec.games.computer.quake.misc/c/2RlW2jJuUEg/m/zYCFnBiNh_cJ
