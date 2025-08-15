@@ -13,8 +13,8 @@ Release Date | File | Description
 1997-07-30 | navy15.zip<br>[navyseal.txt](bin/navyseal15.txt) | Navy Seals v1.5
 1997-??-?? | navy16.zip | Navy Seals v1.6
 1997-??-?? | navy17.zip | Navy Seals v1.7
-1997-08-27 | navy171.zip<br>[navyseal.txt](bin/navyseal17.txt) | Navy Seals v1.71
-1997-08-28 | [navy1711.zip](bin/navy1711.zip) | Navy Seals v1.711
+1997-08-27 | navy171.zip<br>[navyseal.txt](bin/navyseal171.txt) | Navy Seals v1.71
+1997-08-28 | [navy1711.zip](bin/navy1711.zip)<br>[navyseal1711.txt](bin/navyseal1711.txt) | Navy Seals v1.711
 1997-??-?? | navy181.zip<br>[navyseal.txt](bin/navyseal18.txt) | Navy Seals v1.8 Beta
 1997-09-22 | navy191.zip<br>[navyseal.txt](bin/navyseal19.txt) | Navy Seals v1.91 Beta
 1997-10-01 | [navy20.zip](bin/navy20.zip) | Navy Seals v2.0
