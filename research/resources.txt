@@ -12,6 +12,8 @@ mod pages
 
 review of 1.71
 	https://web.archive.org/web/19990218125007/http://www.planetquake.com/qca/reviews/patch91.htm
+review of 201
+	https://web.archive.org/web/19981202041242/http://www.public.usit.net/jerwin/seals.html
 
 other
 	https://groups.google.com/g/fido.ger.spiele/c/7bJOeGa5xNk/m/PByX03WHLKgJ
