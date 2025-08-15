@@ -20,7 +20,7 @@ Release Date | File | Description
 1997-10-01 | [navy20.zip](bin/navy20.zip) | Navy Seals v2.0
 1997-??-?? | navy2x.zip | Navy Seals v2.x
 1997-12-12 | sqdbt201.zip | Navy Seals Squad Bots v2.0.1
-1997-12-19 | [nseal201.zip](bin/nseal201.zip) | Navy Seals v2.0.1
+1997-12-19 | [nseal201.zip](bin/nseal201.zip)<br>[navyseal.txt](bin/navyseal201.txt) | Navy Seals v2.0.1
 1998-01-24 | [ns22.zip](bin/ns22.zip) | Navy Seals v2.01 Bug Fix (v2.2)
 1998-04-10 | [nsgl_models.zip](bin/nsgl_mod.zip) | Navy Seals GL version 1.0 (models)
 1998-04-15 | [seal22gl.zip](bin/seal22gl.zip) | Navy Seals GL version 1.0

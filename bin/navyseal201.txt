@@ -1,0 +1,169 @@
+***************************************************************************
+*		   NAVY SEALS 2.0.1 QUAKE PARTICAL CONVERSION             *
+***************************************************************************
+
+
+Filename  : NSEAL201.ZIP
+Version   : 2.0.1 (includes Navy SEALs sQuad bot)
+
+Date      : 12/19/97
+
+Author    : Minh Le (Gooseman), SkullHunter, William
+
+Email     : see Navy SEALs pages at http://www.planetquake.com/qca/goose
+
+Credits   : The authors of QME and QUARK!! and
+            id software for giving me reason to live (QUAKE2)
+
+
+*****************
+*  Type of Mod  *
+*****************
+
+Quake C  : yes
+               + help from Skullhunter and William (see sqdbot20.txt)
+Sound    : yes + help from Kevin Crocker!!
+MDL      : yes   about 100+ hours worth of modelling and skinning.
+               + help from Skullhunter
+Graphix  : yes + help from Warped of the QCA archives for the awesome
+                 console background.
+               + help from Skullhunter
+
+*************************************
+*  Description of the Modification  *
+*************************************
+
+New Features since Navy SEALS 1.91
+
+- new weapons (MP5SD (silencer equiped MP5), M16RAW (anti-armor rocket
+      launching version of M16, Barrett sniper rifle)
+- flash grenades (in addition to hand grenades)
+- replaced shotgun
+- support for NS maps
+- new animations (death sequences for pistol guy and machine gun guy)
+- bots included for playing on e1m1 (see sqdbot20.txt)
+- clips of MK23 and MP5 now have real-life capacity (instead of 25 resp.
+  60 bullets as in 1.91 and earlier)
+- bug fixes
+ew Features since Navy SEALS 1.81
+
+- new pistol guy replaces grunts (mp5 guy replaces enforcers now)
+- bug fixes
+*****IMPORTANT INFORMATION**********
+
+- impulse 100,
+  will reload the guns (except for shotgun which reloads automatically).
+- impulse 101,
+  will fire the grenade launcher (you must have the M-16 to do this).
+- impulse 102/103,
+  will zoom in/out with the PSG-1 (this only works in regular Quake).
+- impulse 104
+  will toggle crouch mode.
+- impulse 105
+  will toggle between MP5/MP5SD single shot / burst rate controlled
+  / fully automatic modes. (You must have the MP5/MP5SD in your hands to
+  toggle this setting).
+- impulse 200
+  will toggle between flash-bang grenades and fragmentation grenades.
+
+
+******* Patch Information ***********
+
+    Gooseman: "
+    This is the Navy Seals Weapons compilation patch. I'm not sure which
+    version you're playing right now but the Final version is intended
+    to replace all 8 of the original Quake weapons with weapons
+    taken directly from the arsenal of the Navy Seals special ops division.
+    Some of these weapons include : Heckler & Koch MP5 submachine gun,
+    mossberg tactical shotgun, Heckler & Koch Mk. 23 handgun, and
+    the M-16 Assault Rifle (with grenade launcher attached :-).
+    This mod has been a true labour of love. I've gone through MANY
+    revisions on each gun and may yet to go through more revisions..
+    suffice to say, the version of Navy Seals you're playing right now
+    contains the most current revision of my gun and hopefully the
+    most accurate. I first started this weapons mod back in Early June
+    with the intention of only doing an M-16 but after I got blasted for
+    such shoddy craftsmanship I decided to show those who blasted me that
+    I can do it right (hopefully).
+    "
+
+***********************
+*       FEATURES      *
+***********************
+
+   - Heckler & Koch Mk. 23 : This is the handgun that recently won the
+       SOCCOM project. Soon , all special ops forces in the USA will be
+       using this gun. IT uses .45 calibre bullets and carries 12 bullets
+       in its clip.
+       Due to the method in which the bullets travel the gun is best used
+       at close range where maximum torque on the bullet can severely
+       hurt the intended victim. At ranges greater than 20 feet the
+       power of the bullet dissipates quite rapidly..
+       Expect to see 1/4th of the power at a range greater than 200 feet.
+
+   - Mossberg 590 tactical shotgun : I don't know much about this shotgun
+       other than the fact that it's a 12 gauge and uses shells.
+
+   - Heckler & Koch MP5 Submachine gun : The world famous MP5 submachine
+       gun has become a staple in all special ops forces in the USA.
+       It's stability while firing, durability, and ease of use make
+       it the predominant submachine gun in the world. The MP5 fires 9mm
+       rounds and carries 30 bullets in its clip.
+
+   - Colt M-16 Assault Rifle : Standard issue assault rifle in the USA.
+       The M-16 fires 5.56 mm NATO bullets and carries 30 bullets in
+       its clip just as in real life. The grenade launcher attached to
+       the barrel uses 1 rocket per grenade launch and is fired by
+       invoking 'impulse 101'.
+
+   - PSG-1
+       At a cost of $5,000 per rifle, the PSG-1 defines itself as
+       THE MOST ACCURATE semiautomatic sniper rifle in production.
+       With a $1,200 scope, it's obvious that HK weren't skimping out
+       anywhere! The PSG-1 clip carries 20 rounds of .308 bullets.
+
+   - M60
+       With a top rate of fire in excess of 500 rds/minute the M60 can
+       lay down an impressive amount of lead in a very short time frame.
+       The M60 fires 7.62 mm NATO specified bullets and has a 200
+       round belt.
+
+   - H&K MP5 SD
+       silencer equiped version of MP5 described above. You will be issued
+       this weapon as soon as you receive your second MP5.
+
+   - M16 RAW
+       M16 equiped with anti-armor rocket launcher. You will be issued with
+       this weapon as soon as you receive your second M16.
+
+   - Barrett
+       Barrett sniper rifle. You will be issued with
+       this weapon as soon as you receive your second Barrett.
+
+*****************************
+*  Known bugs in 2.0.1      *
+*****************************
+- GLQuake crashes when running Navy SEALs 2.0 (problems with meshing
+  a number of the new models for weapons)
+- selecting the Barrett sniper rifle looses the MK23 handgun (probably
+  a bitfield overflow)
+- obituary messages for players killed by handgrenades mention
+  any weapon but a handgrenade
+
+
+*****************************
+*  How to use Modification  *
+*****************************
+
+1) make a directory in your REGISTERED quake directory called "navyseal"
+2) unzip the file nseal201.zip into the new directory you've just created
+   with the -d option (ie. type "pkunzip nseal201.zip -d" . This will
+   unzip the file with regards to recursive directories.)
+3) Now depending on which version of Quake you plan on running
+   (regular Quake or GLQUake) you might have to run the batch file
+   included in the /progs directory. If you are running normal Quake then
+   you DO NOT run that batch file. If you are running GLQuake then you
+   SHOULD run that batch file. Basically the batch file just
+   swaps the 2 .mdl's
+4) Now , go to the Quake directory and type "quake -game navyseal" or
+   "glquake -game navyseal" if you're runnning GLQuake.
